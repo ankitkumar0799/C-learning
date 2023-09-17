@@ -12,6 +12,7 @@ int main()
 
 
     const int a = 78;
+    sizeof(a);
     // a = 76; error
     printf("%d",a);
 
