@@ -10,8 +10,8 @@ struct
 // define simple structure with bits feilds
 struct 
 {
-    unsigned int a : 1;
-    unsigned int b : 1;
+    unsigned int a : 10;
+    unsigned int b : 10;
 
 }e2;
 
